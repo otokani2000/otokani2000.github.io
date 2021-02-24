@@ -1,0 +1,28 @@
+---
+title: "Otokani Ortega"
+image: "brain.png"
+links:
+  - label: LinkedIn
+    url: "https://linkedin.com/"
+  - label: Twitter
+    url: "https://twitter.com/"
+  - label: GitHub
+    url: "https://github.com/otokani2000"
+  - label: Email
+    url: "otokani2000@comunidad.unam.mx"
+output:
+  postcards::trestles
+---
+ 
+## Bio
+
+Otokani Ortega is an undergraduate student studying Genomic Sciences at UNAM.
+
+## Education
+
+**Universidad Nacional Autónoma de México** | Mexico city, Mexico
+
+Still studying...
+
+## Experience
+No experience yet, but lots of enthusiasm to learn about Neurosciences and how does my brain manage to work  through my day a day.
